@@ -14,3 +14,7 @@
 	path = atlas
 	url = git@github.com:ecmwf/atlas.git
 	branch = develop
+[submodule "eckit"]
+	path = eckit
+	url = git@github.com:ecmwf/eckit.git
+	branch = develop
