@@ -1,0 +1,16 @@
+[submodule "ecbuild"]
+	path = ecbuild
+	url = git@github.com:ecmwf/ecbuild.git
+	branch = master
+[submodule "mir"]
+	path = mir
+	url = git@github.com:ecmwf/mir.git
+	branch = develop
+[submodule "eccodes"]
+	path = eccodes
+	url = git@github.com:ecmwf/eccodes.git
+	branch = develop
+[submodule "atlas"]
+	path = atlas
+	url = git@github.com:ecmwf/atlas.git
+	branch = develop
